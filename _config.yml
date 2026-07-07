@@ -1,0 +1,25 @@
+# GitHub Pages Configuration for Maison Theme Docs
+
+title: Maison Theme
+description: A minimalist, design-focused Shopify theme for artisan brands
+author: Mohammad Hyder
+email: mdhyder402@gmail.com
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - index.md
+  - documentation.md
+  - support.md
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

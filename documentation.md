@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Maison Theme Documentation
+title: Maison Craft theme Documentation
 ---
 
-# Maison Theme Documentation
+# Maison Craft theme Documentation
 
-Complete guide to setting up and customizing your Maison theme.
+Complete guide to setting up and customizing your Maison Craft theme.
 
 ---
 
@@ -105,7 +105,7 @@ Complete guide to setting up and customizing your Maison theme.
 ## Installation
 
 ### Step 1: Download Theme
-1. Download the Maison theme ZIP file from Shopify Theme Store
+1. Download the Maison Craft theme ZIP file from Shopify Theme Store
 2. Keep the ZIP file - don't unzip it
 
 ### Step 2: Upload to Shopify
@@ -851,5 +851,5 @@ When contacting support, please include:
 ---
 
 <div style="text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #D4CFC8; color: #7C7168;">
-  <p><small>Maison Theme Documentation by Mohammad Hyder</small></p>
+  <p><small>Maison Craft theme Documentation by Mohammad Hyder</small></p>
 </div>

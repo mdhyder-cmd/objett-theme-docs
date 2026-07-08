@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Maison Shopify Theme
+title: Maison Craft Shopify Theme
 ---
 
-# Maison - Modern Shopify Theme
+# Maison Craft - Modern Shopify Theme
 
-A minimalist, design-focused Shopify theme built for artisan brands, curated collections, and craft-driven businesses. Maison celebrates thoughtful design, quality materials, and timeless aesthetics with a focus on storytelling and user experience.
+A minimalist, design-focused Shopify theme built for artisan brands, curated collections, and craft-driven businesses. Maison Craft celebrates thoughtful design, quality materials, and timeless aesthetics with a focus on storytelling and user experience.
 
 **Version:** 1.0.0 | **Shopify Theme Version:** 2.0 | **License:** MIT
 
-![Maison Theme Preview](https://via.placeholder.com/1200x600/F7F4EF/1C1917?text=Maison+Theme+Preview)
+![Maison Craft Theme Preview](https://via.placeholder.com/1200x600/F7F4EF/1C1917?text=Maison+Theme+Preview)
 
 ## Quick Links
 
@@ -70,7 +70,7 @@ A minimalist, design-focused Shopify theme built for artisan brands, curated col
 Explore all features, sections, and design elements in a fully functional demo store.
 
 ### Installation (5 minutes)
-1. **Download** the Maison theme ZIP file
+1. **Download** the Maison Craft theme ZIP file
 2. **Upload** to your Shopify store via Online Store > Themes
 3. **Customize** colors, fonts, and content in the theme editor
 4. **Publish** your beautiful store!
@@ -128,7 +128,7 @@ Explore all features, sections, and design elements in a fully functional demo s
 
 ## 🎯 What's Included
 
-When you get Maison, you receive:
+When you get Maison Craft, you receive:
 
 ✅ Complete theme files (all assets, sections, templates)  
 ✅ 30+ customizable sections for page building  
@@ -161,6 +161,6 @@ When you get Maison, you receive:
 ---
 
 <div style="text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #D4CFC8; color: #7C7168;">
-  <p>Maison Theme by Mohammad Hyder</p>
+  <p>Maison Craft Theme by Mohammad Hyder</p>
   <p style="font-size: 0.9rem;">© 2026 All Rights Reserved</p>
 </div>

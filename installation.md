@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Installation Guide - Maison Theme
+title: Installation Guide - Maison Craft theme
 ---
 
-# 📦 Maison Theme - Installation Guide
+# 📦 Maison Craft theme - Installation Guide
 
-Complete guide to installing and setting up the Maison Shopify theme.
+Complete guide to installing and setting up the Maison Craft Shopify theme.
 
 ## 📋 Table of Contents
 - [Before You Begin](#before-you-begin)
@@ -38,7 +38,7 @@ Complete guide to installing and setting up the Maison Shopify theme.
 
 ### What's Included
 
-When you download Maison theme, you get:
+When you download Maison Craft theme, you get:
 - ✅ Complete theme files (assets, sections, templates, etc.)
 - ✅ 30+ customizable sections
 - ✅ Multiple page templates
@@ -88,7 +88,7 @@ When you download Maison theme, you get:
    - Test on mobile view
 
 7. **Publish Theme**
-   - Click **Actions** on Maison theme
+   - Click **Actions** on Maison Craft theme
    - Click **Publish**
    - Confirm when prompted
    - Your new theme is now live! 🎉
@@ -549,4 +549,4 @@ After installation:
 
 ---
 
-**🎉 Congratulations!** Your Maison theme is installed and ready to customize. Start building your beautiful online store!
+**🎉 Congratulations!** Your Maison Craft theme is installed and ready to customize. Start building your beautiful online store!

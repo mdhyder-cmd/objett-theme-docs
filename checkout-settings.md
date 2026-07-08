@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Checkout & Markets Settings - Maison Theme
+title: Checkout & Markets Settings - Maison Craft theme
 ---
 
 # 🌍 Checkout & Markets Settings Guide

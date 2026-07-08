@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Sections Reference - Maison Theme
+title: Sections Reference - Maison Craft theme
 ---
 
-# 📐 Maison Theme - Sections Reference Guide
+# 📐 Maison Craft theme - Sections Reference Guide
 
-Complete reference for all 30+ sections available in the Maison theme.
+Complete reference for all 30+ sections available in the Maison Craft theme.
 
 ## 📋 Table of Contents
 - [Hero & Featured Sections](#hero--featured-sections)

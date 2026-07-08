@@ -1,11 +1,11 @@
 ---
 layout: default
-title: FAQ - Maison Theme
+title: FAQ - Maison Craft theme
 ---
 
-# ❓ Maison Theme - Frequently Asked Questions
+# ❓ Maison Craft theme - Frequently Asked Questions
 
-Quick answers to common questions about the Maison Shopify theme.
+Quick answers to common questions about the Maison Craft Shopify theme.
 
 ## 📋 Table of Contents
 - [General Questions](#general-questions)
@@ -19,7 +19,7 @@ Quick answers to common questions about the Maison Shopify theme.
 
 ## General Questions
 
-### What is the Maison theme?
+### What is the Maison Craft theme?
 
 Maison is a minimalist, design-focused Shopify theme built for artisan brands, curated collections, and craft-driven businesses. It features 30+ customizable sections, 4 style presets, and a focus on storytelling through beautiful imagery and typography.
 

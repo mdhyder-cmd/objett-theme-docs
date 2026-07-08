@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Maison Theme Support
+title: Maison Craft theme Support
 ---
 
-# Maison Theme Support
+# Maison Craft theme Support
 
-Get help with your Maison theme installation, setup, and customization.
+Get help with your Maison Craft theme installation, setup, and customization.
 
 ---
 
@@ -66,7 +66,7 @@ To help us assist you faster, please include:
 ### Email Template
 
 ```
-Subject: Maison Theme Support - [Brief Issue Description]
+Subject: Maison Craft theme Support - [Brief Issue Description]
 
 Store URL: yourstore.myshopify.com
 Issue: [Detailed description of your problem]
@@ -258,6 +258,6 @@ Follow development updates and announcements:
 ---
 
 <div style="text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #D4CFC8; color: #7C7168;">
-  <p><small>Maison Theme Support by Mohammad Hyder</small></p>
+  <p><small>Maison Craft theme Support by Mohammad Hyder</small></p>
   <p><small>Thank you for choosing Maison! 🙏</small></p>
 </div>

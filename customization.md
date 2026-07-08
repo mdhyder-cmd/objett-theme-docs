@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Customization Guide - Maison Theme
+title: Customization Guide - Maison Craft theme
 ---
 
-# 🎨 Maison Theme - Complete Customization Guide
+# 🎨 Maison Craft theme - Complete Customization Guide
 
-Welcome to the Maison theme customization guide! This comprehensive guide will help you customize every aspect of your store without touching any code.
+Welcome to the Maison Craft theme customization guide! This comprehensive guide will help you customize every aspect of your store without touching any code.
 
 ## 📋 Table of Contents
 - [Getting Started](#getting-started)

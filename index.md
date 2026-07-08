@@ -13,6 +13,7 @@ A minimalist, design-focused Shopify theme built for artisan brands, curated col
 
 ## Quick Links
 
+- [🎬 **View Live Demo**](https://themepilot-twt4uvpu.myshopify.com/?country=US) - See the theme in action!
 - [📚 Complete Documentation](documentation) - Installation, setup & customization guides
 - [📦 Installation Guide](installation) - Get started in 5 minutes
 - [🎨 Customization Guide](customization) - Colors, fonts, sections & more
@@ -62,6 +63,11 @@ A minimalist, design-focused Shopify theme built for artisan brands, curated col
 ---
 
 ## 🚀 Getting Started
+
+### 🎬 See It In Action
+**[View Live Demo Store →](https://themepilot-twt4uvpu.myshopify.com/?country=US)**
+
+Explore all features, sections, and design elements in a fully functional demo store.
 
 ### Installation (5 minutes)
 1. **Download** the Maison theme ZIP file

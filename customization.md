@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Customization Guide - Maison Craft theme
+title: Customization Guide - Objett Co theme
 ---
 
-# 🎨 Maison Craft theme - Complete Customization Guide
+# 🎨 Objett Co theme - Complete Customization Guide
 
-Welcome to the Maison Craft theme customization guide! This comprehensive guide will help you customize every aspect of your store without touching any code.
+Welcome to the Objett Co theme customization guide! This comprehensive guide will help you customize every aspect of your store without touching any code.
 
 ## 📋 Table of Contents
 - [Getting Started](#getting-started)

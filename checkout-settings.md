@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Checkout & Markets Settings - Maison Craft theme
+title: Checkout & Markets Settings - Objett Co theme
 ---
 
 # 🌍 Checkout & Markets Settings Guide

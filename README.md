@@ -1,2 +1,2 @@
 # maison-theme-docs
-Documentation and support for Maison Shopify Theme
+Documentation and support for Objett Co Shopify Theme

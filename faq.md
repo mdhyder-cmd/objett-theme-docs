@@ -1,11 +1,11 @@
 ---
 layout: default
-title: FAQ - Maison Craft theme
+title: FAQ - Objett Co theme
 ---
 
-# ❓ Maison Craft theme - Frequently Asked Questions
+# ❓ Objett Co theme - Frequently Asked Questions
 
-Quick answers to common questions about the Maison Craft Shopify theme.
+Quick answers to common questions about the Objett Co Shopify theme.
 
 ## 📋 Table of Contents
 - [General Questions](#general-questions)
@@ -19,7 +19,7 @@ Quick answers to common questions about the Maison Craft Shopify theme.
 
 ## General Questions
 
-### What is the Maison Craft theme?
+### What is the Objett Co theme?
 
 Maison is a minimalist, design-focused Shopify theme built for artisan brands, curated collections, and craft-driven businesses. It features 30+ customizable sections, 4 style presets, and a focus on storytelling through beautiful imagery and typography.
 

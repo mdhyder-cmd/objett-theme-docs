@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Installation Guide - Maison Craft theme
+title: Installation Guide - Objett Co theme
 ---
 
-# 📦 Maison Craft theme - Installation Guide
+# 📦 Objett Co theme - Installation Guide
 
-Complete guide to installing and setting up the Maison Craft Shopify theme.
+Complete guide to installing and setting up the Objett Co Shopify theme.
 
 ## 📋 Table of Contents
 - [Before You Begin](#before-you-begin)
@@ -38,7 +38,7 @@ Complete guide to installing and setting up the Maison Craft Shopify theme.
 
 ### What's Included
 
-When you download Maison Craft theme, you get:
+When you download Objett Co theme, you get:
 - ✅ Complete theme files (assets, sections, templates, etc.)
 - ✅ 30+ customizable sections
 - ✅ Multiple page templates
@@ -88,7 +88,7 @@ When you download Maison Craft theme, you get:
    - Test on mobile view
 
 7. **Publish Theme**
-   - Click **Actions** on Maison Craft theme
+   - Click **Actions** on Objett Co theme
    - Click **Publish**
    - Confirm when prompted
    - Your new theme is now live! 🎉
@@ -549,4 +549,4 @@ After installation:
 
 ---
 
-**🎉 Congratulations!** Your Maison Craft theme is installed and ready to customize. Start building your beautiful online store!
+**🎉 Congratulations!** Your Objett Co theme is installed and ready to customize. Start building your beautiful online store!

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Sections Reference - Maison Craft theme
+title: Sections Reference - Objett Co theme
 ---
 
-# 📐 Maison Craft theme - Sections Reference Guide
+# 📐 Objett Co theme - Sections Reference Guide
 
-Complete reference for all 30+ sections available in the Maison Craft theme.
+Complete reference for all 30+ sections available in the Objett Co theme.
 
 ## 📋 Table of Contents
 - [Hero & Featured Sections](#hero--featured-sections)
